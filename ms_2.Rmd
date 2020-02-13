@@ -10,13 +10,42 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 ## Project #1
-### The thing
+### Which College in the United States Gives You the Best Chance to Climb the Ladder?
 #### Pros
+This project took data from a large set of colleges across the country and
+analyzed them to determine which one gave you the best chance of climbing the
+socioeconomic ladder. Some of the data that was gathered included parents'
+income, childrens' income, and mobility rate. One thing that I liked about this
+project was that it seemed like they had gathered a large amount of data - that
+is, the list of colleges was quite lengthy and each entry had a set of 6
+datapoints about it. They also presented their data in an interesting way, using
+pinpoints on an interactive map to indicate the location of each university.
 
 #### Cons
+One thing that I didn't like about this project was also something I liked - the
+interactive map feature. Though I enjoyed the fact that I could look at the map
+and place myself within the country at each college, I felt that the map was a
+bit hard to read since you had to filter for each individual variable on its own
+instead of being able to view all of the variables for a given college at any
+time. Additionally, once you filtered for a college and a variable it was
+possible to click on another college but it would give you the same value for
+that variable, which I found to be a bit confusing.
 
 ## Project #2
-### The Thingie
+### Analyzing Boston Marathon Race Times
 #### Pros
+This project was looking at the average times of the Boston Marathon over the
+course of about 15 years. The findings were presented in a boxplot format, with
+toggles on the left hand side to switch between the male and female races and to
+determine the sample size of the boxplots. One big thing that I liked about this
+project was that it let you determine the size of the sample that you wanted to
+look at. For example, you could look at the top 500 finishers of the women's
+race or the top 10, depending on what your needs were for the data. I liked this
+flexibility with the data.
 
 #### Cons
+The one major downside I could see to this graph was that it was presented via
+boxplot. Personally, I don't like boxplots because I find them hard to read and
+feel that the information can usually be communicated in a better way.
+Additionally, this project had no use of color on the site, and the entire thing
+seemed kind of like a wash of different shades of grey.
